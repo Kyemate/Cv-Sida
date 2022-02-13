@@ -1,7 +1,7 @@
 body, html {
     height: 100%;
     margin: 0;
-    font-family: 'Droid Sans', arial, serif;
+    font-family: 'Natos Sans' !important; font-size: 18px;
   }
   a.nav-link:hover {
     text-decoration:underline;
@@ -51,7 +51,7 @@ nav {
 .popup {
   margin: 70px auto;
   padding: 20px;
-  background: rgba(74, 170, 74, 0.767);
+  background: rgba(74, 170, 74, 0.918);
   border-radius: 5px;
   width: 30%;
   position: relative;
@@ -61,7 +61,6 @@ nav {
 .popup h2 {
   margin-top: 0;
   color: #333;
-  font-family: Tahoma, Arial, sans-serif;
 }
 .popup .close {
   position: absolute;
